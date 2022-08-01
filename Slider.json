@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "sliderInfor":[
+      {
+        "id":"0",
+        "title":"슬라이드 영역",
+        "text1":"자세히 보기",
+        "text2":"사이트 보기"
+    }
+    ]
+  }
+}
